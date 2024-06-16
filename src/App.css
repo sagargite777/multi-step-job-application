@@ -36,3 +36,19 @@
     transform: rotate(360deg);
   }
 }
+
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+.MuiContainer-root {
+  padding: 2rem;
+}
+
+.MuiStepper-root {
+  margin-bottom: 2rem;
+}
+
+.MuiButton-root {
+  margin-right: 1rem;
+}
